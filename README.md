@@ -14,3 +14,4 @@
 5) Youtube Clone, [Click here](https://playful-dieffenbachia-db3392.netlify.app)
 6) Hulu Clone, [Click here](https://tinyede.netlify.app)
 7) Twitter Clone, [Click here](https://peaceful-shortbread-4ed00b.netlify.app/)
+8) Tik-Tok Clone, [Click here](https://profound-haupia-f5a704.netlify.app)
