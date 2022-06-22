@@ -16,3 +16,4 @@
 7) Twitter Clone, [Click here](https://peaceful-shortbread-4ed00b.netlify.app/)
 8) Tik-Tok Clone, [Click here](https://profound-haupia-f5a704.netlify.app)
 9) Netflix Clone,  [Click here](https://sparkling-pudding-7f5986.netlify.app/)
+10) IgReels Clone, [Click here](https://voluble-puffpuff-d7c188.netlify.app/)
