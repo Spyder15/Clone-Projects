@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>Clone-Projects </h1>
-  <H3>HTML CSS PROJECT </H3>
+  <H3>HTML CSS PROJECT...</H3>
  </div>
   
 
